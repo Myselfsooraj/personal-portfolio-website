@@ -1,4 +1,4 @@
-🔐 Cybersecurity Portfolio Website
+🔐 Portfolio Website
 
 A modern, interactive cybersecurity-themed portfolio website designed to showcase my skills, education, projects, certifications, and career journey toward becoming a Cybersecurity Professional.
 
